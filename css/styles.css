@@ -53,6 +53,10 @@ body {
 
 .titlefont {
 	font-family:"Jolly Lodger", serif;
+	color: whitesmoke;
+	border: solid #959CFF;
+	background: #ADA0FF;
+		
 }
 
 .bodyfont {
